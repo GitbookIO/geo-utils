@@ -1,6 +1,6 @@
 {
     "name": "geo-utils",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "homepage": "https://github.com/GitbookIO/geo-utils",
     "description": "Utilities to get countries, languages and US states",
     "main": "lib/index.js",
