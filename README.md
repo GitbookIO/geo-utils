@@ -39,7 +39,7 @@ var languages = geo.languages;
 languages.LIST;
 
 // Get a language
-languages.get("FR");
+languages.get("fr");
 ```
 
 US States:
