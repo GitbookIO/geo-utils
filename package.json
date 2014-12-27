@@ -1,0 +1,22 @@
+{
+    "name": "geo-utils",
+    "version": "0.0.0",
+    "homepage": "https://github.com/GitbookIO/geo-utils",
+    "description": "Utilities to get countries, languages and US states",
+    "main": "lib/index.js",
+    "dependencies": {
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitbookIO/geo-utils.git"
+    },
+    "keywords": [
+        "licenses"
+    ],
+    "author": "Samy Pessé <samy@gitbook.com>",
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/GitbookIO/geo-utils/issues"
+    }
+}
