@@ -17,3 +17,39 @@ Include the library:
 ```js
 var geo = require("geo-utils");
 ```
+
+Countries:
+
+```js
+var countries = geo.countries;
+
+// List of all countries
+countries.LIST;
+
+// Get a country
+countries.get("FR");
+```
+
+Languages:
+
+```js
+var languages = geo.languages;
+
+// List of all languages
+languages.LIST;
+
+// Get a language
+languages.get("FR");
+```
+
+US States:
+
+```js
+var usstates = geo.usstates;
+
+// List of all US states
+usstates.LIST;
+
+// Get a US state
+usstates.get("CA");
+```
